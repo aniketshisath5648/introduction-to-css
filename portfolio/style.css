@@ -1,0 +1,53 @@
+.Aniket
+{
+    text-align: center;
+    background-color: aqua;
+    border: 3px dotted red;
+}
+.anu{
+    background-color: aqua;
+    border-top: 4px solid black;
+    border-right: 5px dashed brown;
+    border-bottom: 4px solid black;
+    border-left: 5px dashed brown;
+
+
+
+}
+.anike{
+    background-color: blueviolet;
+    font-style: oblique;
+    border-top: 4px solid black;
+    border-right: 5px dashed brown;
+    border-bottom: 4px solid black;
+    border-left: 5px dashed brown;
+
+}
+.anik{
+    background-color: brown;
+    font-style: italic;
+    border-top: 4px solid black;
+    border-right: 5px dashed violet;
+    border-bottom: 4px solid black;
+    border-left: 5px dashed violet;
+
+}
+.ani{
+    background-color: cadetblue;
+    font-style: italic;
+    border-top: 4px solid black;
+    border-right: 5px dashed rgb(78, 178, 83);
+    border-bottom: 4px solid black;
+    border-left: 5px dashed rgb(78, 178, 83);
+
+}
+.an{
+    background-color: chartreuse;
+    font-size: medium;
+    color: black;
+    border-top: 4px solid black;
+    border-right: 5px dashed brown;
+    border-bottom: 4px solid black;
+    border-left: 5px dashed brown;
+
+}
